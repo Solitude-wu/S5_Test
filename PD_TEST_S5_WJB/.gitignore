@@ -1,0 +1,4 @@
+*.o
+*.WIN
+proj/Objects
+proj/Listings

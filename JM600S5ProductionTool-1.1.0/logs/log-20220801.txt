@@ -1,0 +1,1443 @@
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 14:23:10 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 14:23:10 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:11 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 14:23:11 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 14:23:11 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 14:23:11 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:intTemp产测开始: 8，File:，Line:0，Function:，DateTime:2022-08-01 14:23:19 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:intTemp产测开始: 24，File:，Line:0，Function:，DateTime:2022-08-01 14:23:21 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:23:23 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:23 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:23 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:23 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:23 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 14:23:23 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:23:24 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:24 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:24 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:24 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:24 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 14:23:24 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 14:23:25 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:23:26 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:26 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:26 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:26 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:23:26 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 14:23:26 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:24:13 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 14:46:23 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 14:46:23 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:24 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 14:46:24 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 14:46:24 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 14:46:24 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:46:33 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:33 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:33 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:33 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:33 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:33 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:33 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:46:34 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:34 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:34 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:34 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:34 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:34 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:34 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:35 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:46:36 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:36 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:36 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:36 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:36 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:36 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:36 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 14:46:37 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:43 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:temp: "aa75370000100031323334353637383931333234353600" tempString: "123456789132456"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931333234353600" bs: "aa75370000100031323334353637383931333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:byte: "123456789132456" sendByteArray烧录: "aa75370000100031323334353637383931333234353600ce" toLatin1: "aa75370000100031323334353637383931333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:byte: "123456789132456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:44 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:46:48 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:48 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:48 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:48 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:48 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:48 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:48 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:46:50 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:50 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:50 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:50 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:50 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:51 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:52 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:53 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:56 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:57 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:58 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:46:59 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:01 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:02 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:03 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:04 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:05 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:47:07 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:49:44 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:44 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:44 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:44 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:44 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:44 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:44 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:46 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:47 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotButtonPressed: 17，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotButtonPressed: 17，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotButtonPressed: 17，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:48 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:49:56 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 14:50:05 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 14:50:31 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 15:16:08 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 15:16:08 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:09 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 15:16:09 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 15:16:09 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 15:16:09 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:16:21 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:21 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:21 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:21 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:21 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:21 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:21 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:16:29 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:29 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:29 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:29 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:29 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:29 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:29 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 15:16:31 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:31 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:31 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:31 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:31 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:31 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:31 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:32 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:33 周一
+Message:slotButtonPressed: 17，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:slotButtonPressed: 17，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:34 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:16:35 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:04 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:04 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:04 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:05 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:06 周一
+Message:slotButtonPressed: 14，File:，Line:0，Function:，DateTime:2022-08-01 15:18:07 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:07 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:07 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:07 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:08 周一
+Message:slotButtonPressed: 17，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotButtonPressed: 18，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotButtonPressed: 18，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotButtonPressed: 18，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotButtonPressed: 18，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:09 周一
+Message:slotButtonPressed: 18，File:，Line:0，Function:，DateTime:2022-08-01 15:18:10 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:10 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:10 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:10 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:slotButtonPressed: 15，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:11 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:35 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:36 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:36 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:36 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:36 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:36 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:36 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:36 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:37 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:38 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:38 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:38 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:38 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:38 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:40 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotButtonPressed: 11，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:41 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:42 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:43 周一
+Message:slotButtonPressed: 13，File:，Line:0，Function:，DateTime:2022-08-01 15:18:44 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:44 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:44 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:44 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:44 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:44 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:44 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:45 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:45 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:45 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:45 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:45 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:45 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:45 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:46 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:46 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:46 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:46 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:46 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:46 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:46 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotButtonPressed: 12，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:18:55 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:10 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:12 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:19:16 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:16 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:16 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:16 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:19:16 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 15:19:16 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:16 周一
+Message:slotTabBarClicked: 1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:28 周一
+Message:index: 1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:28 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 15:19:28 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 15:19:28 周一
+Message:slotTabBarClicked: 0，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:index: 0，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:slotTabBarClicked: 1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:index: 1，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 15:19:30 周一
+Message:slotTabBarClicked: 0，File:，Line:0，Function:，DateTime:2022-08-01 15:19:31 周一
+Message:index: 0，File:，Line:0，Function:，DateTime:2022-08-01 15:19:31 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 15:19:31 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 15:19:31 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:24:29 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 15:26:55 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 15:26:55 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 15:26:55 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 15:26:55 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 15:26:55 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 15:26:55 周一
+Message:slotTabBarClicked: 1，File:，Line:0，Function:，DateTime:2022-08-01 15:27:00 周一
+Message:index: 1，File:，Line:0，Function:，DateTime:2022-08-01 15:27:00 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 15:27:00 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 15:27:00 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:27:01 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:27:01 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:27:01 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 15:27:01 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 15:28:54 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 15:45:46 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 15:45:47 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 15:45:47 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 15:45:47 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 15:45:47 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 15:45:47 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:intTemp产测开始: 8，File:，Line:0，Function:，DateTime:2022-08-01 15:46:25 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:intTemp产测开始: 24，File:，Line:0，Function:，DateTime:2022-08-01 15:46:27 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:46:31 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:31 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:31 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:31 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:46:31 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 15:46:31 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:47:08 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:08 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:08 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:08 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:08 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 15:47:08 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 15:47:38 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:38 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:38 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:38 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 15:47:38 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 15:47:38 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:18:43 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 16:24:10 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 16:24:10 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:11 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 16:24:11 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 16:24:11 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 16:24:11 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:intTemp产测开始: 8，File:，Line:0，Function:，DateTime:2022-08-01 16:24:25 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:intTemp产测开始: 24，File:，Line:0，Function:，DateTime:2022-08-01 16:24:27 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:24:31 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:31 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:31 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:31 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:24:31 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 16:24:31 周一
+Message:slotTabBarClicked: 1，File:，Line:0，Function:，DateTime:2022-08-01 16:24:48 周一
+Message:index: 1，File:，Line:0，Function:，DateTime:2022-08-01 16:24:48 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 16:24:48 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 16:24:48 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 16:29:28 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 16:29:28 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:29 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 16:29:29 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 16:29:29 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 16:29:29 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:29:35 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:temp: "aa75370000100031323334353637393831333234353600" tempString: "123456798132456"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637393831333234353600" bs: "aa75370000100031323334353637393831333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:byte: "123456798132456" sendByteArray烧录: "aa75370000100031323334353637393831333234353600ce" toLatin1: "aa75370000100031323334353637393831333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:byte: "123456798132456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456798132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456798132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:29:41 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:29:45 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:45 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:45 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:45 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:29:45 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:29:45 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:29:45 周一
+Message:slotTabBarClicked: 1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:index: 1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:slotTabBarClicked: 1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:index: 1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 16:30:34 周一
+Message:slotCursorPositionChanged: -1 新位置 0 输入内容： ""，File:，Line:0，Function:，DateTime:2022-08-01 16:30:35 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "1" ，长度： 1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotCursorPositionChanged: 0 新位置 1 输入内容： "1"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "12" ，长度： 2，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotCursorPositionChanged: 1 新位置 2 输入内容： "12"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "123" ，长度： 3，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotCursorPositionChanged: 2 新位置 3 输入内容： "123"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "1234" ，长度： 4，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotCursorPositionChanged: 3 新位置 4 输入内容： "1234"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "12345" ，长度： 5，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotCursorPositionChanged: 4 新位置 5 输入内容： "12345"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "123456" ，长度： 6，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotCursorPositionChanged: 5 新位置 6 输入内容： "123456"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:36 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "1234567" ，长度： 7，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotCursorPositionChanged: 6 新位置 7 输入内容： "1234567"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "12345678" ，长度： 8，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotCursorPositionChanged: 7 新位置 8 输入内容： "12345678"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "123456789" ，长度： 9，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotCursorPositionChanged: 8 新位置 9 输入内容： "123456789"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "1234567891" ，长度： 10，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotCursorPositionChanged: 9 新位置 10 输入内容： "1234567891"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "12345678912" ，长度： 11，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotCursorPositionChanged: 10 新位置 11 输入内容： "12345678912"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "123456789123" ，长度： 12，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotCursorPositionChanged: 11 新位置 12 输入内容： "123456789123"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:37 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "1234567891234" ，长度： 13，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotCursorPositionChanged: 12 新位置 13 输入内容： "1234567891234"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "12345678912345" ，长度： 14，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotCursorPositionChanged: 13 新位置 14 输入内容： "12345678912345"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotLineEditTextEdited---imeiText: "未知" IMEI: "123456789123456" ，长度： 15，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:输入的NS号同设备刷机的SN号不一致，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotCursorPositionChanged: 14 新位置 15 输入内容： "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:38 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 16:30:40 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:40 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:40 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:40 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:40 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:30:40 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:40 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:30:44 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:44 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:30:44 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:30:44 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:30:44 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 16:32:47 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 16:32:47 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:32:47 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:32:47 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:32:47 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:32:47 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:32:47 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:32:51 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:32:51 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:32:51 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:32:51 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:32:51 周一
+Message:slotTabBarClicked: 0，File:，Line:0，Function:，DateTime:2022-08-01 16:33:24 周一
+Message:index: 0，File:，Line:0，Function:，DateTime:2022-08-01 16:33:24 周一
+Message:mainWidth: 1398 mainHeight: 700，File:，Line:0，Function:，DateTime:2022-08-01 16:33:24 周一
+Message:videoWidget: QSize(1398, 653)，File:，Line:0，Function:，DateTime:2022-08-01 16:33:24 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:temp: "aa75370000100031323334353637393831333234353600" tempString: "123456798132456"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637393831333234353600" bs: "aa75370000100031323334353637393831333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:byte: "123456798132456" sendByteArray烧录: "aa75370000100031323334353637393831333234353600ce" toLatin1: "aa75370000100031323334353637393831333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:byte: "123456798132456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456798132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456798132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:33:31 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:33:35 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:35 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:35 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:35 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:33:35 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:33:35 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:33:35 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:temp: "aa75370000100031323334353637393831333234353600" tempString: "123456798132456"，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637393831333234353600" bs: "aa75370000100031323334353637393831333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:byte: "123456798132456" sendByteArray烧录: "aa75370000100031323334353637393831333234353600ce" toLatin1: "aa75370000100031323334353637393831333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:byte: "123456798132456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456798132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456798132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:41:59 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:42:03 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:42:03 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:42:03 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:42:03 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:42:03 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:42:03 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:42:03 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:53:06 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 16:53:35 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 16:53:35 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:36 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 16:53:36 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 16:53:36 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 16:53:36 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:53:43 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:temp: "aa75370000100031323334353637383931333234353600" tempString: "123456789132456"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931333234353600" bs: "aa75370000100031323334353637383931333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:byte: "123456789132456" sendByteArray烧录: "aa75370000100031323334353637383931333234353600ce" toLatin1: "aa75370000100031323334353637383931333234353600"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:byte: "123456789132456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789132456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:53:44 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:53:48 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:48 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:48 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:48 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:53:48 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:53:48 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:53:48 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 16:54:16 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 16:58:39 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 16:58:39 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 16:58:40 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 16:58:40 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 16:58:40 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 16:58:40 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 16:58:48 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:58:48 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 16:58:48 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 16:58:49 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:00:45 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:00:49 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:49 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:49 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:49 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:00:49 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:00:49 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:00:49 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:58 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:06:59 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:07:00 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:07:03 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:03 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:03 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:03 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:07:03 周一
+Message:QIODevice::write (QSerialPort): device not open，File:，Line:0，Function:，DateTime:2022-08-01 17:07:03 周一
+Message:intTemp产测开始: -1，File:，Line:0，Function:，DateTime:2022-08-01 17:07:03 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:14 周一
+Message:mainWidget析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:MenuWidget析构。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:BaseMenuPushButton析构。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:ProductionWidget析构。。。。。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:SettingWidget析构了。。。，File:，Line:0，Function:，DateTime:2022-08-01 17:23:15 周一
+Message:urlString--- "http://console.jmadas.com/devconsole/check/pcba" jsonObject---- QJsonObject({"pcbas":[{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140856349","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140902570","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140919464","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"},{"ahdOut":"未知","avmF":"未知","avmL":"未知","avmR":"未知","bsdL":"未知","bsdR":"未知","buzzer":"未知","cameraVcc":"未知","can0":"未知","can1":"未知","canVersion":"未知","canVersionJob":"sanyi_20210328","checkTimeStr":"20220801140924709","currentConsumption":"未知","customerName":"三一","dmsCamera":"未知","hardwareJob":"1.0.0","ignAd":"未知","inputVoltage":"未知","led":"未知","mcuVersion":"未知","mcuVersionJob":"S5_APP_2.42","orderNum":"1","productType":"JM600 S5","radarVcc":"未知","rear":"未知","rearCameraIn":"未知","sn":"未知","socVersion":"未知","socVersionJob":"ver:1.2.0;build:330;date:20210730","standbyCurrent":"未知","statusIndicator":"未知","totalResult":"FAIL","turnLeft":"未知","turnRight":"未知","utDataL":"未知","utDataR":"未知","vinAd":"未知","voltage5000":"未知"}]})，File:，Line:0，Function:，DateTime:2022-08-01 17:23:24 周一
+Message:slotGetRequestFinished:，File:，Line:0，Function:，DateTime:2022-08-01 17:23:24 周一
+Message:sqlStr查询: "SELECT *FROM PCBADeviceInformation ORDER BY timeStamp ASC limit 10,10"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:25 周一
+Message:PCBA导出数据条数： 0，File:，Line:0，Function:，DateTime:2022-08-01 17:23:25 周一
+Message:主动结束循环，File:，Line:0，Function:，DateTime:2022-08-01 17:23:25 周一
+Message:上传PCBA数据结束了，File:，Line:0，Function:，DateTime:2022-08-01 17:23:25 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:23:36 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:slotButtonPressed: 16，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu8\x00\x00\x00\x00\xE7"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:intTemp产测开始: 8，File:，Line:0，Function:，DateTime:2022-08-01 17:23:37 周一
+Message:slotRecordClikedButton:，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:textLenth: 0F temp: "aa753700001000"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:temp: "aa75370000100031323334353637383931323334353600" tempString: "123456789123456"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:getXorEncryptDecrypt---str: "aa75370000100031323334353637383931323334353600" bs: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:byte: "123456789123456" sendByteArray烧录: "aa75370000100031323334353637383931323334353600ce" toLatin1: "aa75370000100031323334353637383931323334353600"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:byte: "123456789123456" sendByteArray烧录222222222: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu7\x00\x00\x10\x00""123456789123456\x00\xCE"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:intTemp产测开始: 24，File:，Line:0，Function:，DateTime:2022-08-01 17:23:39 周一
+Message:slotButtonPressed: 10，File:，Line:0，Function:，DateTime:2022-08-01 17:23:43 周一
+Message:发起设备状态请求: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:43 周一
+Message:sendByteArray烧录: "aa75130000010000CD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:43 周一
+Message:sendByteArray烧录222222222: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:43 周一
+Message:slotSendSerialPort---sendByteArray给单片机发数据: "\xAAu\x13\x00\x00\x01\x00\x00\xCD"，File:，Line:0，Function:，DateTime:2022-08-01 17:23:43 周一
+Message:intTemp产测开始: 9，File:，Line:0，Function:，DateTime:2022-08-01 17:23:43 周一
